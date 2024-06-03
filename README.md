@@ -21,7 +21,9 @@ JavaScript: Implementamos JavaScript para adicionar interatividade ao site, incl
 O projeto CODETECH foi desenvolvido pela seguinte equipe de alunos da Faculdade FIAP:
 
 Lucas Serrano (Estudante de Engenharia de Software) - RM555170
+
 Pedro Nobre (Estudante de Engenharia de Software) - RM 557454
+
 Caio Rossini (Estudante de Engenharia de Software) - RM555084
 
 
