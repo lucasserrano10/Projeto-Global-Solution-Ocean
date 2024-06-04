@@ -219,6 +219,34 @@ header{
     margin-bottom: 20px;
 }
 
+#email{
+    border-radius: 4px;
+}
+
+#senha{
+    border-radius: 4px;
+}
+
+@media screen and (max-width:768px){
+    input#email{
+        width: 40vw;
+    }
+
+    input#senha{
+        width: 40vw;
+    }
+}
+
+
+@media screen and (max-width: 1600px){
+    input#email{
+        width: 50vw;
+    }
+
+    input#senha{
+        width: 50vw;
+    }
+}
 .tittle-parceiros{
     display: block;
     margin: 0 auto;
