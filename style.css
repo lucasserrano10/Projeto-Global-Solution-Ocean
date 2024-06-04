@@ -212,8 +212,6 @@ header{
 
 .box-text-proposta{
     font-size: 1rem;
-    display: block;
-    text-align: center;
     border: 3px solid #3B7D8C;
     width: 50vw;
     padding: 10px;
