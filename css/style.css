@@ -126,7 +126,8 @@ header{
     display: block;
     width: 100%;
     height: 50vh;
-    background-image: url(./img-praia.jpg);
+    background-image: url(../imagens/img-praia.jpg);
+    box-shadow: 1px 1px 6px #3B7D8C;
     background-position:  bottom;
     background-size: cover;
 }
@@ -196,7 +197,7 @@ header{
     margin: 80px auto;
     border: 10px #3B7D8C;
     border-radius: 10px;
-    background-image: url(./img-floresta:mar.jpg);
+    background-image: url(../imagens/img-tartaruga.jpg);
     background-position:  bottom;
     background-size: cover;
 }
